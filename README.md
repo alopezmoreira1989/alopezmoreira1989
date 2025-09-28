@@ -10,12 +10,14 @@ My work includes:
 
 - Finance & Fundamental Analysis: Analyzing companies and financial metrics
 
+- Python & Machine Learning: Building models, automating analysis, and predictive insights
+
 - SQL & Databases: Structuring data and writing queries for analysis
 
 New projects are always in the works, exploring advanced analytics, predictive modeling, and interactive dashboards.
 
 **⚡ Skills**
 
-Python, SQL, Excel, Tableau, Power BI, Data Analysis, Fundamental Analysis
+Python, Machine Learning, SQL, Excel, Tableau, Power BI, Data Analysis, Fundamental Analysis
 
 💡 Sharing my learning journey and practical projects in data analytics and finance.
