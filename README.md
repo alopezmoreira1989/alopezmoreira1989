@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @alopezmoreira1989
-- 👀 I’m interested in Python and Data Analysis
-- 🌱 I’m currently learning Python and Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me > al.lopez.moreira@gmail.com
+**👋 Hi, I’m Alejandro López Moreira**
 
-<!---
-alopezmoreira1989/alopezmoreira1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst from Spain, passionate about turning data into actionable insights. Completed the Google Advanced Data Analytics Certificate and IBM Data Engineering Foundations Specialization.
+
+**📂 Projects**
+
+My work includes:
+
+- Data Analysis & Visualization: Exploring datasets and building insights
+
+- Finance & Fundamental Analysis: Analyzing companies and financial metrics
+
+- SQL & Databases: Structuring data and writing queries for analysis
+
+New projects are always in the works, exploring advanced analytics, predictive modeling, and interactive dashboards.
+
+**⚡ Skills**
+
+Python, SQL, Excel, Tableau, Power BI, Data Analysis, Fundamental Analysis
+
+💡 Sharing my learning journey and practical projects in data analytics and finance.
