@@ -1,10 +1,10 @@
-**👋 Hi, I’m Alejandro López Moreira**
+# 👋 Hi, I’m Alejandro López Moreira
 
 Data analyst from Spain, passionate about turning data into actionable insights. Completed the Google Advanced Data Analytics Certificate and IBM Data Engineering Foundations Specialization.
 
-**📂 Projects**
+## 📂 Projects
 
-My work includes:
+### My work includes:
 
 - Data Analysis & Visualization: Exploring datasets and building insights
 
@@ -16,7 +16,7 @@ My work includes:
 
 New projects are always in the works, exploring advanced analytics, predictive modeling, and interactive dashboards.
 
-**⚡ Skills**
+## ⚡ Skills
 
 Python, Machine Learning, SQL, Excel, Tableau, Power BI, Data Analysis, Fundamental Analysis
 
